@@ -7,6 +7,13 @@
 | [fix: _select_final_candidate ignores criteria="min" -selects worst candidate for minimization](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/347) | [#347](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/347) | Merged |
 | [fix(benchmark): make fit benchmark comparisons cache-mode aware](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/346) | [#346](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/346) | Merged |
 | [docs(community): add article comparing hand-built GA with sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/345) | [#345](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/345) | Merged |
+| [fix: replace broad exception swallowing with specific exceptions and logging](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/350) | [#350](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/350) | Open |
+
+
+## [hermes-agent](https://github.com/NousResearch/hermes-agent)
+| PR Title | PR Number | Status |
+|----------|-----------|--------|
+| [fix(tts): fall through to raw import when lazy_deps fails (#53259)](https://github.com/NousResearch/hermes-agent/pull/66237) | [#66237](https://github.com/NousResearch/hermes-agent/pull/66237) | Open |
 
 
 ## [unfold](https://github.com/civiks/unfold-iitm) 
