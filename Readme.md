@@ -16,6 +16,14 @@
 | [fix(tts): fall through to raw import when lazy_deps fails (#53259)](https://github.com/NousResearch/hermes-agent/pull/66237) | [#66237](https://github.com/NousResearch/hermes-agent/pull/66237) | Open |
 
 
+## [Ciaren](https://github.com/ciaren-labs/Ciaren)
+| PR Title | PR Number | Status |
+|----------|-----------|--------|
+| [fix(pivot): count non-null values on polars so engines agree](https://github.com/ciaren-labs/Ciaren/pull/143) | [#143](https://github.com/ciaren-labs/Ciaren/pull/143) | Merged |
+| [examples: add validator plugin demonstrating a data-quality node](https://github.com/ciaren-labs/Ciaren/pull/120) | [#120](https://github.com/ciaren-labs/Ciaren/pull/120) | Merged |
+| [fix(transformations): make validation error messages consistent and actionable](https://github.com/ciaren-labs/Ciaren/pull/119) | [#119](https://github.com/ciaren-labs/Ciaren/pull/119) | Merged |
+
+
 ## [unfold](https://github.com/civiks/unfold-iitm) 
 | PR Title | PR Number | Status |
 |----------|-----------|--------|
