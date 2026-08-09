@@ -13,7 +13,7 @@
 ## [hermes-agent](https://github.com/NousResearch/hermes-agent)
 | PR Title | PR Number | Status |
 |----------|-----------|--------|
-| [fix(tts): fall through to raw import when lazy_deps fails (#53259)](https://github.com/NousResearch/hermes-agent/pull/66237) | [#66237](https://github.com/NousResearch/hermes-agent/pull/66237) | Open |
+| [fix(tts): fall through to raw import when lazy_deps fails (#53259)](https://github.com/NousResearch/hermes-agent/pull/66237) | [#66237](https://github.com/NousResearch/hermes-agent/pull/66237) | Merged |
 
 
 ## [Ciaren](https://github.com/ciaren-labs/Ciaren)
